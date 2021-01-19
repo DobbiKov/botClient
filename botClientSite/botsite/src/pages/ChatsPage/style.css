@@ -1,0 +1,22 @@
+.loading{
+    position: absolute;
+    top: 47%;
+    left: 47%;
+}
+.pages{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: block;
+    width: 80%;
+}
+.chat{
+    display: block;
+    width: 100%;
+    border: 1px solid grey;
+}
+.chat p{
+    text-align: left;
+}
